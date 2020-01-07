@@ -1,5 +1,3 @@
-# vim-lsp-settings
+# vim-lsp-mappings
 
-## Don't use this
-
-[mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) is probably what you are looking for :smile:
+key mapping and commands for [vim-lsp](https://github.com/prabirshrestha/vim-lsp).
